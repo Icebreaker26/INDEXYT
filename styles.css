@@ -1,0 +1,84 @@
+body{
+
+  background: #7F00FF;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #E100FF, #7F00FF);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #E100FF, #7F00FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+#caja{
+
+
+
+  width: 70%;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  text-align: center;
+
+}
+
+h1{
+
+  font-family: 'Acme', sans-serif;
+  color: white;
+
+}
+
+h3{
+
+  font-family: 'Acme', sans-serif;
+  color: white;
+  margin-top: -2%;
+  font-size: 70%;
+  text-align: center;
+
+}
+
+
+
+
+#caja1{
+
+
+  display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 25% 25%;
+
+
+  width: 80%;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+}
+
+
+#botones{
+
+  height: 1fr;
+  width: 80%;
+  border: 3px solid yellow;
+  margin:0 auto;
+  text-align: center;
+}
+
+#logos{
+
+width:80%;
+margin-top:2%;
+
+}
