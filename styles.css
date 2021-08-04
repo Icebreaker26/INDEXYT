@@ -55,10 +55,20 @@ h3{
       row-gap: 50px;
 
 
-  width: 80%;
+  width: 100%;
   height: 100%;
   margin-top: 50px;
   margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+#caja2{
+
+  width: 80%;
+
   margin-left: auto;
   margin-right: auto;
 
@@ -69,8 +79,8 @@ h3{
   border-radius: 10px;
   border: 1px solid rgba( 255, 255, 255, 0.18 );
 
-}
 
+}
 
 #botones{
 
@@ -78,7 +88,7 @@ h3{
 
   width: 80%;
   height: 100%;
-  border: 3px solid yellow;
+  border: 2px dotted yellow;
   margin:0 auto;
   text-align: center;
   margin-bottom: 4%;
