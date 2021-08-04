@@ -52,7 +52,7 @@ h3{
   display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 25% 25%;
-      row-gap: 10px;
+      row-gap: 50px;
 
 
   width: 80%;
